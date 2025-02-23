@@ -32,11 +32,12 @@ Suggests seasonal variations in student enrollment, possibly due to exam schedul
 Only 4.4% are above 40, suggesting limited interest from older individuals.
 
 Data Storytelling :
-•	"Understanding Student Enrollment & Revenue Trends in Online Courses" 
-•	The dashboard reveals that the institution has generated ₹6,878K in revenue from 772 students across 8 courses. 
-•	The most lucrative courses are Davinci Resolve, Adobe After Effects, and Autodesk 3Ds Max, contributing significantly to revenue. 
-•	504 students have completed their courses and received certificates, while others are still in progress or have dropped out. 
-•	Enrollment spikes in April & September, suggesting strategic marketing can be focused on these months. 
-•	The 20-30 age group dominates (52%), indicating young professionals and students drive demand for these courses.
+
+1.	Understanding Student Enrollment & Revenue Trends in Online Courses.
+2.	The dashboard reveals that the institution has generated ₹6,878K in revenue from 772 students across 8 courses. 
+3.	The most lucrative courses are Davinci Resolve, Adobe After Effects, and Autodesk 3Ds Max, contributing significantly to revenue. 
+4.	504 students have completed their courses and received certificates, while others are still in progress or have dropped out. 
+5.	Enrollment spikes in April & September, suggesting strategic marketing can be focused on these months. 
+6.	The 20-30 age group dominates (52%), indicating young professionals and students drive demand for these courses.
 
 

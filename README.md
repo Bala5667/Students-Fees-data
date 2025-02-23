@@ -1,5 +1,7 @@
 # Students-Fees-data
 
+Tools Used: Microsoft Excel, Microsoft PowerBI, Power Query Editor
+
 Purpose : 
 
 To analyze revenue distribution by courses. To track student enrollments and their distribution across different months. To monitor certification completion rates to evaluate student success. To understand the age demographics of enrolled students for better marketing strategies.
